@@ -1,7 +1,5 @@
 # RFID Based Tallgate Control System
 
-# RFID Based Tollgate Control System
-
 ## Overview
 This project implements an **RFID-based tallgate control system** using the **AT89C52 microcontroller**. It integrates **I2C** and **UART** communication protocols to read RFID tags and control a tallgate system. The system verifies the authenticity of a tag, logs entry/exit times, calculates toll charges, and controls the gate.
 
